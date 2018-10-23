@@ -13,7 +13,7 @@ public class HelloWorld {
         System.out.println("short c = " + c);
         System.out.println("int a = " + a);
 
-        long myLongValue = 123_456_789_876_543_211_2L;
+        long myLongValue = 1234567898765432112L;
         float myFloatValue = 23.56F;
         double myDoubleValue = 56.45D;
 
